@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2734,5): warning MSB3290: Не удалось создать сборку-оболочку для библиотеки типов "{bed7f4ea-1a96-11d2-8f08-00a0c9a6186d}". Библиотека типов "mscorlib" экспортирована из сборки CLR и не может быть повторно импортирована как сборка CLR.
+  MainForm.cpp
+C:\Users\User\source\repos\CourseWork\buyersForm.h(457): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\sellingOrdersForm.h(506): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\successDealsForm.h(355): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\successDealsForm.h(370): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\MainForm.h(453): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\MainForm.h(515): warning C4101: e: неиспользованная локальная переменная
+  buyersForm.cpp
+C:\Users\User\source\repos\CourseWork\buyersForm.h(457): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\sellingOrdersForm.h(506): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\successDealsForm.h(355): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\successDealsForm.h(370): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\MainForm.h(453): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\MainForm.h(515): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\CourseWork\buyersForm.cpp(5): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  dealAmountForm.cpp
+  functions.cpp
+C:\Users\User\source\repos\CourseWork\functions.cpp(99): warning C4129: d: неизвестная escape-последовательность
+C:\Users\User\source\repos\CourseWork\functions.cpp(211): warning C4101: e: неиспользованная локальная переменная
+  sellingOrdersForm.cpp
+C:\Users\User\source\repos\CourseWork\sellingOrdersForm.h(506): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  dealAmountForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CourseWork.vcxproj -> C:\Users\User\source\repos\CourseWork\Debug\CourseWork.exe
